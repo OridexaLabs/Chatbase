@@ -2683,4 +2683,4 @@ Artificial intelligence transforms software from a tool that users operate into 
 
 Build, deploy, and manage AI assistants using your own knowledge sources.
 
-🚀 Start building with **[https://www.chatbase.com](https://link.chatbase.co/explore)**.
+🚀 Start building with Chatbase here: **[https://www.chatbase.com](https://link.chatbase.co/explore)**.
