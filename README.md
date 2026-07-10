@@ -54,20 +54,14 @@ The traditional workflow:
 
 ```text
 User Question
-
       |
       v
-
 Search Documentation
-
       |
       v
-
 Review Multiple Pages
-
       |
       v
-
 Find Relevant Answer
 ```
 
@@ -75,25 +69,17 @@ An AI-powered workflow introduces a different approach:
 
 ```text
 User Question
-
       |
       v
-
 Natural Language Understanding
-
       |
       v
-
 Knowledge Retrieval
-
       |
       v
-
 AI Response Generation
-
       |
       v
-
 Conversational Answer
 ```
 
@@ -127,17 +113,11 @@ The difference can be represented as:
 Traditional Software
 
 Human
-
   |
-
 Navigation
-
   |
-
 Interface
-
   |
-
 Information
 ```
 
@@ -145,17 +125,11 @@ Information
 Conversational AI
 
 Human
-
   |
-
 Natural Language
-
   |
-
 AI Understanding
-
   |
-
 Information
 ```
 
@@ -237,17 +211,11 @@ Traditional support workflow:
 
 ```text
 Customer Question
-
         |
-
 Search Help Center
-
         |
-
 Create Support Request
-
         |
-
 Wait For Response
 ```
 
@@ -255,17 +223,11 @@ AI-assisted workflow:
 
 ```text
 Customer Question
-
         |
-
 AI Analysis
-
         |
-
 Knowledge Retrieval
-
         |
-
 Immediate Assistance
 ```
 
@@ -292,17 +254,11 @@ Developers can now create AI-powered assistants by combining:
 
 ```text
 Knowledge Sources
-
         +
-
 Large Language Models
-
         +
-
 Conversation Interface
-
         +
-
 Application Logic
 ```
 
@@ -387,17 +343,11 @@ Traditional information access:
 
 ~~~text
 Information Repository
-
         |
-
         v
-
 User Searches
-
         |
-
         v
-
 User Finds Answer
 ~~~
 
@@ -405,23 +355,14 @@ AI-powered information access:
 
 ~~~text
 User Question
-
         |
-
         v
-
 AI Understands Intent
-
         |
-
         v
-
 AI Retrieves Knowledge
-
         |
-
         v
-
 AI Generates Response
 ~~~
 
@@ -453,25 +394,15 @@ A company may have:
 
 ~~~text
 Website
-
 +
-
 Internal Wiki
-
 +
-
 Cloud Documents
-
 +
-
 Support Database
-
 +
-
 Product Documentation
-
 +
-
 Training Materials
 ~~~
 
@@ -489,23 +420,14 @@ Example:
 
 ~~~text
 Open Website
-
         |
-
         v
-
 Navigate Categories
-
         |
-
         v
-
 Search Pages
-
         |
-
         v
-
 Read Information
 ~~~
 
@@ -513,23 +435,14 @@ AI-powered systems provide a simpler approach:
 
 ~~~text
 Ask Question
-
         |
-
         v
-
 AI Understands Meaning
-
         |
-
         v
-
 Find Relevant Information
-
         |
-
         v
-
 Provide Explanation
 ~~~
 
@@ -555,17 +468,11 @@ Traditional support process:
 
 ~~~text
 Customer
-
  |
-
 Submit Ticket
-
  |
-
 Wait For Response
-
  |
-
 Receive Answer
 ~~~
 
@@ -573,21 +480,13 @@ AI-powered support process:
 
 ~~~text
 Customer
-
  |
-
 Ask Question
-
  |
-
 AI Processes Request
-
  |
-
 Retrieve Information
-
  |
-
 Provide Answer
 ~~~
 
@@ -601,31 +500,19 @@ A modern support system combines AI automation with human expertise.
 
 ~~~text
 Customer Question
-
         |
-
         v
-
 AI Understanding
-
         |
-
         v
-
 Knowledge Retrieval
-
         |
-
         +----------------+
         |                |
         v                v
-
 Simple Request    Complex Request
-
         |                |
-
         v                v
-
 AI Response     Human Agent
 ~~~
 
@@ -670,12 +557,10 @@ AI response:
 
 ~~~text
 Plan A:
-
 - Standard features
 - Basic limits
 
 Plan B:
-
 - Advanced features
 - Higher capacity
 - Additional tools
@@ -700,7 +585,6 @@ Example:
 
 ~~~text
 Question:
-
 "What are the main benefits of this product?"
 ~~~
 
@@ -708,7 +592,6 @@ AI:
 
 ~~~text
 Based on approved information:
-
 - Benefit One
 - Benefit Two
 - Benefit Three
@@ -735,17 +618,11 @@ Workflow:
 
 ~~~text
 Employee Question
-
         |
-
         v
-
 AI Knowledge Search
-
         |
-
         v
-
 Policy Explanation
 ~~~
 
@@ -761,17 +638,11 @@ Traditional onboarding:
 
 ~~~text
 New Employee
-
  |
-
 Read Documents
-
  |
-
 Attend Training
-
  |
-
 Ask Questions
 ~~~
 
@@ -779,13 +650,9 @@ AI-powered onboarding:
 
 ~~~text
 New Employee
-
  |
-
 Ask AI Assistant
-
  |
-
 Receive Guidance
 ~~~
 
@@ -832,7 +699,6 @@ Example:
 
 ~~~text
 Researcher:
-
 "Summarize the main findings from this report."
 ~~~
 
@@ -840,7 +706,6 @@ AI:
 
 ~~~text
 The report identifies several important conclusions:
-
 1. Main Finding One
 2. Main Finding Two
 3. Main Finding Three
@@ -864,17 +729,11 @@ AI documentation assistants provide:
 
 ~~~text
 Developer Question
-
         |
-
         v
-
 Documentation Retrieval
-
         |
-
         v
-
 Technical Explanation
 ~~~
 
@@ -897,17 +756,11 @@ Example:
 
 ~~~text
 User Inside Application
-
         |
-
         v
-
 Ask AI Assistant
-
         |
-
         v
-
 Receive Contextual Help
 ~~~
 
@@ -1006,23 +859,14 @@ The evolution:
 
 ~~~text
 Information Storage
-
         |
-
         v
-
 Information Search
-
         |
-
         v
-
 Conversational Knowledge Access
-
         |
-
         v
-
 Intelligent Business Assistance
 ~~~
 
@@ -1051,29 +895,17 @@ It is a complete infrastructure that combines:
 A simplified architecture:
 
     User Interface
-
           |
-
           v
-
     Conversation Engine
-
           |
-
           v
-
     AI Processing Layer
-
           |
-
           v
-
     Knowledge Retrieval System
-
           |
-
           v
-
     Information Sources
 
 Each component contributes to the final quality of the AI experience.
@@ -1087,23 +919,14 @@ A traditional software application usually follows deterministic logic.
 Example:
 
     User Input
-
           |
-
           v
-
     Program Rules
-
           |
-
           v
-
     Database Query
-
           |
-
           v
-
     Fixed Output
 
 AI applications introduce a new intelligence layer.
@@ -1111,29 +934,17 @@ AI applications introduce a new intelligence layer.
 Example:
 
     User Question
-
           |
-
           v
-
     Language Understanding
-
           |
-
           v
-
     Knowledge Retrieval
-
           |
-
           v
-
     AI Generation
-
           |
-
           v
-
     Contextual Response
 
 The system does not simply retrieve information.
@@ -1151,7 +962,6 @@ A complete AI assistant typically contains several major components.
 The user interface is where people communicate with the AI.
 
 Examples:
-
 - Website chat widgets
 - Mobile applications
 - Customer portals
@@ -1159,7 +969,6 @@ Examples:
 - Software interfaces
 
 The interface manages:
-
 - User messages
 - Conversation display
 - Interaction experience
@@ -1168,17 +977,11 @@ The interface manages:
 Example:
 
     User
-
       |
-
       v
-
     Chat Interface
-
       |
-
       v
-
     AI Response Display
 
 A good interface makes AI interaction feel natural.
@@ -1203,7 +1006,6 @@ Example:
 Without context:
 
     User:
-
     What about the second option?
 
 The AI does not know what "second option" refers to.
@@ -1211,11 +1013,9 @@ The AI does not know what "second option" refers to.
 With context:
 
     Previous:
-
     Compare pricing plans.
 
     Current:
-
     What about the second option?
 
 The AI understands the relationship.
@@ -1236,23 +1036,14 @@ It performs tasks such as:
 The process:
 
     User Message
-
           |
-
           v
-
     Understand Meaning
-
           |
-
           v
-
     Identify Relevant Knowledge
-
           |
-
           v
-
     Generate Response
 
 This layer allows users to communicate naturally.
@@ -1297,29 +1088,17 @@ The concept combines:
 The workflow:
 
     User Question
-
           |
-
           v
-
     Search Knowledge Sources
-
           |
-
           v
-
     Find Relevant Information
-
           |
-
           v
-
     Provide Context To AI Model
-
           |
-
           v
-
     Generate Answer
 
 This allows AI assistants to answer questions using specific information sources.
@@ -1342,29 +1121,17 @@ Sources may include:
 A simplified structure:
 
     Information Sources
-
             |
-
             v
-
     Content Processing
-
             |
-
             v
-
     Knowledge Storage
-
             |
-
             v
-
     AI Retrieval
-
             |
-
             v
-
     User Answer
 
 The quality of the knowledge base directly affects AI performance.
@@ -1378,35 +1145,20 @@ Before information can be used by an AI assistant, it usually requires processin
 The pipeline:
 
     Raw Information
-
           |
-
           v
-
     Cleaning
-
           |
-
           v
-
     Formatting
-
           |
-
           v
-
     Splitting Content
-
           |
-
           v
-
     Creating Searchable Representation
-
           |
-
           v
-
     AI Knowledge System
 
 Good processing improves retrieval accuracy.
@@ -1424,17 +1176,11 @@ Example:
 A large documentation file:
 
     Complete Documentation
-
               |
-
               v
-
     Section One
-
     Section Two
-
     Section Three
-
     Section Four
 
 Smaller sections allow AI systems to retrieve relevant information more efficiently.
@@ -1512,35 +1258,20 @@ When generating an answer, an AI assistant usually follows several steps.
 Example:
 
     User Question
-
           |
-
           v
-
     Analyze Request
-
           |
-
           v
-
     Retrieve Relevant Information
-
           |
-
           v
-
     Apply Instructions
-
           |
-
           v
-
     Generate Response
-
           |
-
           v
-
     Deliver Answer
 
 The final response is created from:
@@ -1592,29 +1323,17 @@ Important areas include:
 A secure architecture:
 
     User
-
       |
-
       v
-
     Authentication
-
       |
-
       v
-
     Application
-
       |
-
       v
-
     AI System
-
       |
-
       v
-
     Protected Knowledge
 
 Security prevents unauthorized access to information.
@@ -1630,29 +1349,18 @@ Organizations may require different permissions.
 Example:
 
     Customer
-
-        |
-
+        [
         v
-
     Public Information
-
-
+    
     Employee
-
         |
-
         v
-
     Internal Information
 
-
     Administrator
-
         |
-
         v
-
     Restricted Information
 
 Access control ensures appropriate information delivery.
@@ -1682,29 +1390,17 @@ AI systems improve through continuous optimization.
 The cycle:
 
     User Interaction
-
           |
-
           v
-
     Analyze Conversations
-
           |
-
           v
-
     Identify Weaknesses
-
           |
-
           v
-
     Improve Knowledge
-
           |
-
           v
-
     Better Responses
 
 AI development does not end after deployment.
@@ -1728,21 +1424,13 @@ Important considerations:
 A scalable architecture separates components:
 
     Interface Layer
-
           |
-
     Application Layer
-
           |
-
     AI Layer
-
           |
-
     Knowledge Layer
-
           |
-
     Data Layer
 
 This allows each component to evolve independently.
@@ -1764,23 +1452,14 @@ Future AI platforms will increasingly provide:
 The evolution:
 
     Static Information Systems
-
             |
-
             v
-
     Search-Based Systems
-
             |
-
             v
-
     Conversational AI Systems
-
             |
-
             v
-
     Intelligent Autonomous Systems
 
 AI assistants represent the next generation of software infrastructure, where information becomes interactive, accessible, and intelligent.
@@ -1804,35 +1483,20 @@ The most successful AI implementations focus on solving specific problems rather
 The implementation process:
 
     Define Purpose
-
           |
-
           v
-
     Prepare Knowledge
-
           |
-
           v
-
     Configure AI Behavior
-
           |
-
           v
-
     Test Performance
-
           |
-
           v
-
     Deploy System
-
           |
-
           v
-
     Improve Continuously
 
 ---
@@ -1853,19 +1517,16 @@ Examples:
 Customer support assistant:
 
     Purpose:
-
     Help customers solve common product questions.
 
 Internal knowledge assistant:
 
     Purpose:
-
     Help employees find company information.
 
 Documentation assistant:
 
     Purpose:
-
     Help developers understand technical resources.
 
 A focused purpose creates better results.
@@ -1918,29 +1579,17 @@ Possible sources:
 A knowledge preparation process:
 
     Collect Information
-
           |
-
           v
-
     Review Content
-
           |
-
           v
-
     Remove Outdated Information
-
           |
-
           v
-
     Organize Knowledge
-
           |
-
           v
-
     Connect To AI System
 
 ---
@@ -1961,23 +1610,14 @@ Organizations should regularly review:
 Knowledge maintenance process:
 
     Existing Knowledge
-
           |
-
           v
-
     Review Accuracy
-
           |
-
           v
-
     Update Information
-
           |
-
           v
-
     Improve AI Responses
 
 A strong AI assistant requires continuous knowledge management.
@@ -2069,11 +1709,9 @@ A good conversation should:
 Example:
 
     User:
-
     I cannot access my account.
 
     AI:
-
     I can help with that. Are you experiencing:
 
     1. Forgotten password?
@@ -2091,7 +1729,6 @@ Users do not always provide complete information.
 Example:
 
     User:
-
     It does not work.
 
 The AI needs context.
@@ -2099,7 +1736,6 @@ The AI needs context.
 A good response:
 
     I can help. Could you tell me:
-
     - Which feature are you using?
     - What error message appears?
     - When did the problem start?
@@ -2209,23 +1845,14 @@ Useful feedback methods:
 Example:
 
     User Interaction
-
           |
-
           v
-
     Feedback Collection
-
           |
-
           v
-
     Problem Identification
-
           |
-
           v
-
     System Improvement
 
 Feedback creates continuous optimization.
@@ -2275,23 +1902,14 @@ Identify recurring problems.
 The improvement cycle:
 
     Analyze
-
        |
-
        v
-
     Improve
-
        |
-
        v
-
     Test
-
        |
-
        v
-
     Deploy
 
 ---
@@ -2305,45 +1923,29 @@ Examples:
 Customer support:
 
     Question
-
         |
-
         v
-
     AI Answer
-
         |
-
         v
-
     Ticket Creation If Needed
-
 
 Sales:
 
     Customer Request
-
         |
-
         v
-
     AI Provides Information
-
         |
-
         v
-
     Sales Follow-up
 
 
 Internal operations:
 
     Employee Question
-
         |
-
         v
-
     AI Retrieves Procedure
 
 ---
@@ -2468,23 +2070,14 @@ Future AI assistants will:
 The future workflow:
 
     Human Need
-
           |
-
           v
-
     AI Understanding
-
           |
-
           v
-
     Knowledge Retrieval
-
           |
-
           v
-
     Intelligent Action
 
 AI assistants are becoming a new layer of digital productivity and information access.
@@ -2500,46 +2093,28 @@ For decades, software applications required users to learn interfaces, navigate 
 The traditional model:
 
     User
-
       |
-
       v
-
     Interface
-
       |
-
       v
-
     Application
-
       |
-
       v
-
     Information
 
 
 The AI-native model:
 
     User
-
       |
-
       v
-
     Natural Conversation
-
       |
-
       v
-
     Artificial Intelligence
-
       |
-
       v
-
     Knowledge And Actions
 
 
@@ -2558,11 +2133,8 @@ Early computers required technical commands.
 Example:
 
     User writes commands
-
             |
-
             v
-
     Computer executes instructions
 
 
@@ -2584,17 +2156,11 @@ Examples:
 The model became:
 
     User
-
       |
-
       v
-
     Visual Interface
-
       |
-
       v
-
     Application
 
 
@@ -2611,19 +2177,12 @@ Users communicate through natural language.
 Example:
 
     User:
-
     "Help me understand this document."
-
             |
-
             v
-
     AI Assistant
-
             |
-
             v
-
     Explanation And Guidance
 
 
@@ -2640,42 +2199,26 @@ AI-native applications are built around intelligence.
 Traditional application:
 
     Feature
-
        +
-
     Database
-
        +
-
     User Interface
-
        |
-
        v
-
     Software Product
 
 
 AI-native application:
 
     User Intent
-
        +
-
     AI Reasoning
-
        +
-
     Knowledge
-
        +
-
     Automation
-
        |
-
        v
-
     Intelligent Product
 
 
@@ -2702,40 +2245,25 @@ An AI agent can:
 Traditional chatbot:
 
     User Question
-
           |
-
           v
-
     AI Answer
 
 
 AI agent:
 
     User Goal
-
           |
-
           v
-
     Understand Objective
-
           |
-
           v
-
     Plan Steps
-
           |
-
           v
-
     Execute Actions
-
           |
-
           v
-
     Report Result
 
 
@@ -2835,11 +2363,8 @@ Good AI products hide complexity.
 The user experiences:
 
     Ask
-
       |
-
       v
-
     Receive Help
 
 
@@ -2852,23 +2377,14 @@ AI products improve through usage.
 The cycle:
 
     User Interaction
-
           |
-
           v
-
     Collect Insights
-
           |
-
           v
-
     Improve System
-
           |
-
           v
-
     Better Experience
 
 
@@ -2940,21 +2456,13 @@ The future of AI development will involve collaboration between:
 A complete AI ecosystem includes:
 
     Data
-
       +
-
     Models
-
       +
-
     Applications
-
       +
-
     Users
-
       +
-
     Feedback
 
 
@@ -2971,28 +2479,19 @@ AI changes the relationship between humans and knowledge.
 Traditional:
 
     Person
-
       |
-
       v
-
     Search Information
 
 
 Future:
 
     Person
-
       |
-
       v
-
     Ask Intelligent System
-
       |
-
       v
-
     Receive Understanding
 
 
@@ -3113,23 +2612,14 @@ They demonstrate how organizations can transform existing knowledge into interac
 The fundamental idea:
 
     Information
-
           |
-
           v
-
     Intelligence
-
           |
-
           v
-
     Conversation
-
           |
-
           v
-
     Human Assistance
 
 
