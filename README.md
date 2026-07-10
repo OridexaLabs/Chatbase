@@ -2676,3 +2676,11 @@ The future belongs to applications that do more than display information.
 The future belongs to applications that understand people.
 
 Artificial intelligence transforms software from a tool that users operate into a partner that helps users achieve more.
+
+---
+
+## Try Chatbase
+
+Build, deploy, and manage AI assistants using your own knowledge sources.
+
+🚀 Start building with **[https://www.chatbase.com](https://link.chatbase.co/explore)**.
