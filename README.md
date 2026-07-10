@@ -1,4 +1,4 @@
-# [Chatbase](https://link.chatbase.co/explore)
+# [Chatbase](https://link.chatbase.co/learnmore)
 
 > Build, deploy, and manage AI-powered conversational agents with modern large language model technology.
 
@@ -12,7 +12,7 @@ The emergence of generative AI and large language models (LLMs) introduced a new
 
 Instead of requiring users to understand the structure of a system, AI-powered assistants allow people to communicate naturally. Users can ask questions, describe problems, request explanations, and receive responses generated from relevant knowledge sources.
 
-**[Chatbase](https://link.chatbase.co/explore)** represents a modern approach to building AI-powered conversational assistants that connect large language models with organizational knowledge.
+**[Chatbase](https://link.chatbase.co/learnmore)** represents a modern approach to building AI-powered conversational assistants that connect large language models with organizational knowledge.
 
 This repository is part of **OridexaLabs**, an open technical documentation initiative focused on:
 
@@ -2683,4 +2683,4 @@ Artificial intelligence transforms software from a tool that users operate into 
 
 Build, deploy, and manage AI assistants using your own knowledge sources.
 
-🚀 Start building with Chatbase here: **[https://www.chatbase.com](https://link.chatbase.co/explore)**.
+🚀 Start building with Chatbase here: **[https://www.chatbase.com](https://link.chatbase.co/learnmore)**.
